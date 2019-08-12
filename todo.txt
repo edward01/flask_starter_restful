@@ -1,0 +1,4 @@
+* A microblog app
+- login, logout, register, forgot password
+- posts crud operation
+- testing (pytest)
